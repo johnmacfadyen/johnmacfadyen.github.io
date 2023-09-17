@@ -9,7 +9,7 @@
 | Rode SC3 | TRRS to TRS Adapter | 2 | [Rode](https://rode.com/accessories/sc3)
 | Rode SC15 | USB-C to Lightning Cable | 1 | [Rode](https://rode.com/accessories/sc15)
 | Audiotechnica AT2035 | Condenser Microphone | 1 | [Audiotechnica](https://www.audio-technica.com/en-au/at2035)
-| Smallrig RM01 | Mini LED Video Light | 1 | [Smallrig](https://www.smallrig.com/smallrig-rm01-led-video-light-kit-3469.html)
+| Smallrig RM01 | Mini LED Video Light + Gels/Diffusion + Barn doors/Honeycomb/Spotlight Snoot | 4 | [Smallrig](https://www.smallrig.com/smallrig-rm01-led-video-light-kit-3469.html)
 | Smallrig RM75 | Magnetic RGB LED Light | 1 | [Smallrig](https://www.smallrig.com/smallrig-rm75-magnetic-smart-led-light-3290.html)
 | Smallrig RM120 | RGB Video Light | 2 | [Smallrig](https://www.smallrig.com/SmallRig-RM120-Long-Battery-Life-RGB-Video-Light-3808.html)
 | Joby GorillaPod 3K Video PRO | Tripod | 1 | [Joby](https://joby.com/global/gorillapod-3k-video-pro-jb01562-bww/)
