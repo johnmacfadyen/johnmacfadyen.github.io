@@ -16,6 +16,7 @@
 | Manfrotto 504HD | Fluid Video Head + Tripod | 1 | [Videoguys](https://www.videoguys.com.au/Shop/p/20886/manfrotto-504hd-head-with-546b-2-stage-aluminium-tripod-system-504hd546bk.html)
 | Manfrotto 701HDV | Mini Fluid Video Head + Tripod | 1 | [Review](https://www.thephoblographer.com/2011/08/08/review-manfrotto-701hdv/)
 | Manfrotto Sympla Rig| Shoulder Rig | 1 | [Videoguys](https://www.videoguys.com.au/Shop/p/25740/manfrotto-sympla-shoulder-support-system-mva511wk.html)
+| Lanparte Follow Focus | Follow Focus for Cinema Lens | 1 | 
 | Smallrig Universal Camera Cage | Camera Cage | 1 | [Smallrig](https://smallrig.com/smallrig-versaframe-cage-1584.html)
 | Smallrig Cold Shoe Mount | Cold Shoe Mount | 2 | [Smallrig](https://smallrig.com/smallrig-cold-shoe-mount-1960.html)
 | Rokinon 35mm T1.5 Cine Lens EF Mount | Cine Lens | 1 | [B&H](https://rokinon.com/products/35mm-t1-5-full-frame-wide-angle-cine-ds)
